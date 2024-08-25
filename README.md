@@ -1,0 +1,1 @@
+# Reconhecimento-de-Textos-a-partir-de-Imagens-analisadas-por-IAs
